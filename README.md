@@ -484,6 +484,7 @@ Fee for Use refers to money CRCs are paid by NPS for delivering services to NPSâ
 | HRP | Healthy Relationships Programme | | Domestic Violence Programme (no longer running). |
 | HSE | High-Security Estate | | The highest category/ security level of prison, eg Belmarsh, now more commonly known as LTSHE (Long Term High-Security Estate). Could also be Health and Safety Executive. |
 | HSP / HSF | Healthy Sex Programme / Health Sexual Functioning Programme | | Sex Offender Treatment Programme |
+| HSS | Hardware Support Services | | |
 | HTA | Hierarchical Task Analysis | | |
 | HWF | Help with Fees | | The service formerly known as Fee Remission.Two parts, public and staff-facing |
 | HwPV | Help With Prison Visits | | Also known as APVS (Assisted Prison Visit Scheme) |
